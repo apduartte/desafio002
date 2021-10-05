@@ -1,0 +1,36 @@
+@charset "utf-8";
+
+#cabecalho{
+    font-family: 'Times New Roman', Times, serif;
+    margin: center;
+}
+
+fil
+
+form {
+    width: 500px;
+    margin:center;
+}
+    
+    input{
+
+    font-family: sans-serif;
+    font-weight: normal;
+    font-size: 13pt;
+    margin: 5;
+}
+input[type=checkbox]:checked + label{
+    color:#cccccc;
+}
+
+legend {
+    color: #888888;
+    font-weight: bold;
+    font-family: sans-serif;
+}
+
+fieldset {
+    width: 400px;
+    
+}
+.cnome input [ type = nome]
