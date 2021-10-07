@@ -7,9 +7,10 @@ body {
 }
 
 .cabecalho{
-margin: auto;
-padding: 12px 20px;
-width: 50%;
+     margin-inline-end: center;
+     background-color: orange;
+     padding: 10px;
+     position: center;
 }
 
 .input [ type = tex]{
